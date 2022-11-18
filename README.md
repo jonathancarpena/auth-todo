@@ -5,5 +5,6 @@
 
 ## Buidling Process
 
-### `npm start`
+### Login Page
+State is managed using the React Hookk where user authentication state is recorded in App.tsx. 
 
