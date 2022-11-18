@@ -1,10 +1,8 @@
 # Simple Todo with Login Page
 
-This project w
+This project features a simple login page and a todo list that persists through localStorage. The project is built using React.js, TypeScript, and plain CSS.
 
-## Available Scripts
-
-In the project directory, you can run:
+## Buidling Process
 
 ### `npm start`
 
